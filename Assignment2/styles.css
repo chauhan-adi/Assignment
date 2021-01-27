@@ -1,0 +1,33 @@
+.p{
+    background-color:cyan;
+  
+}
+th{
+    padding: 5px;
+}
+body{
+background-image:
+url('image.jpg');
+background-repeat: no-repeat;
+background-size: 600px 500px;
+background-position: center;
+}
+
+.email,.no,.gen,.ci,.date,.but,.name.add{
+    height:28px;
+    width:100%;
+    
+}
+.submit{
+    color:white;
+    background-color: cyan;
+    height: 28px;
+    width: 100%;
+}
+.al{
+    margin-left: auto;
+    margin-right: auto;
+}
+.h{
+    text-align: center;
+}
